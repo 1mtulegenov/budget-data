@@ -1,0 +1,138 @@
+{
+ "v": 2,
+ "updatedAt": 1795446795241,
+ "cards": [
+  "Woodforest",
+  "Chase"
+ ],
+ "groups": [
+  "Жильё",
+  "Авто",
+  "Здоровье",
+  "Связь и техника",
+  "Семья",
+  "Еда и быт",
+  "Развлечения",
+  "Другое"
+ ],
+ "items": [
+  {
+   "id": "au9itm6nxm2",
+   "kind": "expense",
+   "name": "Аппарты",
+   "amount": 1700,
+   "day": 1,
+   "method": "manual",
+   "card": "Woodforest",
+   "group": "Жильё",
+   "start": "2026-11",
+   "end": "2027-01",
+   "note": ""
+  },
+  {
+   "id": "h49aqkdnxm2",
+   "kind": "expense",
+   "name": "Страховка медицина",
+   "amount": 31.71,
+   "day": 2,
+   "method": "auto",
+   "card": "Woodforest",
+   "group": "Здоровье",
+   "start": "2026-11",
+   "end": "2026-12",
+   "note": ""
+  },
+  {
+   "id": "uiby1pinxm2",
+   "kind": "expense",
+   "name": "Рассрочка iPhone (2 шт.) + Интернет",
+   "amount": 144.84,
+   "day": 15,
+   "method": "auto",
+   "card": "Chase",
+   "group": "Связь и техника",
+   "start": "2026-11",
+   "end": "2029-05",
+   "note": ""
+  },
+  {
+   "id": "55x3guunxm2",
+   "kind": "expense",
+   "name": "Страховка авто (3 машины)",
+   "amount": 355,
+   "day": 29,
+   "method": "auto",
+   "card": "Woodforest",
+   "group": "Авто",
+   "start": "2026-11",
+   "end": "",
+   "note": "Progressive"
+  },
+  {
+   "id": "vmoigq3nxm2",
+   "kind": "expense",
+   "name": "Электричество",
+   "amount": 90,
+   "day": 28,
+   "method": "manual",
+   "card": "Woodforest",
+   "group": "Жильё",
+   "start": "2026-11",
+   "end": "2027-02",
+   "note": ""
+  },
+  {
+   "id": "zu5maxenxm2",
+   "kind": "expense",
+   "name": "Колорадо",
+   "amount": 634.8,
+   "day": 10,
+   "method": "auto",
+   "card": "Chase",
+   "group": "Авто",
+   "start": "2026-11",
+   "end": "",
+   "note": ""
+  },
+  {
+   "id": "kvoo9n8nxm2",
+   "kind": "expense",
+   "name": "Камри",
+   "amount": 418,
+   "day": null,
+   "method": "",
+   "card": "",
+   "group": "Авто",
+   "start": "2026-11",
+   "end": "",
+   "note": ""
+  },
+  {
+   "id": "4mo1a41nxm2",
+   "kind": "expense",
+   "name": "Рассрочка зуб",
+   "amount": 387.5,
+   "day": 29,
+   "method": "auto",
+   "card": "Chase",
+   "group": "Здоровье",
+   "start": "2026-11",
+   "end": "2026-12",
+   "note": ""
+  },
+  {
+   "id": "tkrrvxmnxm2",
+   "kind": "expense",
+   "name": "Родителям кредит",
+   "amount": 200,
+   "day": 10,
+   "method": "",
+   "card": "",
+   "group": "Семья",
+   "start": "2026-11",
+   "end": "",
+   "note": ""
+  }
+ ],
+ "months": {}
+}
