@@ -1,6 +1,6 @@
 {
  "v": 2,
- "updatedAt": 1795446795241,
+ "updatedAt": 1795447619971,
  "cards": [
   "Woodforest",
   "Chase"
@@ -134,5 +134,23 @@
    "note": ""
   }
  ],
- "months": {}
+ "months": {
+  "2026-11": {
+   "paid": {
+    "au9itm6nxm2": true,
+    "h49aqkdnxm2": true,
+    "zu5maxenxm2": true,
+    "tkrrvxmnxm2": true,
+    "uiby1pinxm2": true
+   },
+   "actual": {
+    "au9itm6nxm2": 1700,
+    "h49aqkdnxm2": 31.71,
+    "zu5maxenxm2": 634.8,
+    "tkrrvxmnxm2": 200,
+    "uiby1pinxm2": 144.84
+   },
+   "extras": []
+  }
+ }
 }
